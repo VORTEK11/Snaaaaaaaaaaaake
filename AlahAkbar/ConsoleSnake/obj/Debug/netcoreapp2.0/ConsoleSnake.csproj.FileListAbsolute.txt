@@ -1,0 +1,13 @@
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\bin\Debug\netcoreapp2.0\ConsoleSnake.deps.json
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\bin\Debug\netcoreapp2.0\ConsoleSnake.runtimeconfig.json
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\bin\Debug\netcoreapp2.0\ConsoleSnake.runtimeconfig.dev.json
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\bin\Debug\netcoreapp2.0\ConsoleSnake.dll
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\bin\Debug\netcoreapp2.0\ConsoleSnake.pdb
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\obj\Debug\netcoreapp2.0\ConsoleSnake.csproj.AssemblyReference.cache
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\obj\Debug\netcoreapp2.0\ConsoleSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\obj\Debug\netcoreapp2.0\ConsoleSnake.AssemblyInfoInputs.cache
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\obj\Debug\netcoreapp2.0\ConsoleSnake.AssemblyInfo.cs
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\obj\Debug\netcoreapp2.0\ConsoleSnake.csproj.CoreCompileInputs.cache
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\obj\Debug\netcoreapp2.0\ConsoleSnake.dll
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\obj\Debug\netcoreapp2.0\ConsoleSnake.pdb
+C:\Users\volod\Desktop\ConsoleSnake-master\src\ConsoleSnake\obj\Debug\netcoreapp2.0\ConsoleSnake.genruntimeconfig.cache
